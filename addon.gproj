@@ -1,8 +1,0 @@
-GameProject {
- ID "ProjetLife"
- GUID "596F14D409D96583"
- TITLE "ProjetLife"
- Dependencies {
-  "591AF5BDA9F7CE8B" "58D0FB3206B6F859"
- }
-}
